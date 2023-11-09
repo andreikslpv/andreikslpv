@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <h1>Hi there, I'm Andrei</h1>
+  <h2>Hi there, I'm Andrei</h2>
   <h3>Android-developer</h3>
 </div>
 <div id="socials" align="center">
@@ -7,6 +7,15 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>  
 </div>
+
+Мой стек технологий и принципов разработки:
+- "чистая" архитектрура, паттерн MVVM для слоя presentation;
+- Kotlin, Java (в объеме достаточном для работы с legacy-кодом);
+- Hilt, Dagger2;
+- Navigation component;
+- Retrofit2 + Okhttp3;
+- Glide, Coil;
+- 
 
 ### Languages and tools 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" title="android" width="40" height="40"/>&nbsp; 
