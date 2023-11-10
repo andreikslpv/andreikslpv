@@ -13,7 +13,7 @@
 
 Мой стек:
 - "чистая" архитектрура, паттерн MVVM для слоя presentation, многомодульная архитектура (features/core/navigation);
-- Kotlin, Java (в объеме достаточном для работы с legacy-кодом);
+- Kotlin;
 - Hilt, Dagger2;
 - LiveData, Flow, Coroutines;
 - Navigation component;
