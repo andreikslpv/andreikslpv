@@ -7,7 +7,7 @@
 
 <div id="watchthis" align="left">
   <P>
-    Я постоянно учуь новому и повышаю свой уровень, мой актуальный стек и применяемые подходы можно посмотреть в репозитории <a href="https://github.com/andreikslpv/MTGCollection"> MTGCollection </a>
+    Я постоянно учуь новому и повышаю свой уровень, мой актуальный стек и применяемые подходы можно увидеть в репозитории <a href="https://github.com/andreikslpv/MTGCollection"> MTGCollection </a>
   </P>  
 </div>                                                                                                                           
 
@@ -21,7 +21,7 @@
 - Jetpack Paging3 + RemoteMediator
 - Glide, Coil
 - Room, SharedPreferences
-- сервисы Firebasee
+- сервисы Firebase
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andreikslpv&theme=default)
 
