@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <h3>Привет, меня зовут Андрей, Android-разработчик 
+  <h3>Привет, я Андрей, Android-разработчик 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" title="android" width="24" height="24"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" title="kotlin" width="24" height="24"/>&nbsp;
   </h3>
