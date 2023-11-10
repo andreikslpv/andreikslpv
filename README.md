@@ -12,16 +12,16 @@
 </div>                                                                                                                           
 
 Мой стек:
-- "чистая" архитектрура, паттерн MVVM для слоя presentation, многомодульная архитектура (features/core/navigation);
-- Kotlin;
-- Hilt, Dagger2;
-- LiveData, Flow, Coroutines;
-- Navigation component;
-- Retrofit2 + Okhttp3;
-- Jetpack Paging3 + RemoteMediator;
-- Glide, Coil;
+- "чистая" архитектрура, паттерн MVVM для слоя presentation, многомодульная архитектура (features/core/navigation)
+- Kotlin
+- Hilt, Dagger2
+- LiveData, Flow, Coroutines
+- Navigation component
+- Retrofit2 + Okhttp3
+- Jetpack Paging3 + RemoteMediator
+- Glide, Coil
 - Room, SharedPreferences
-- сервисы Firebasee.
+- сервисы Firebasee
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andreikslpv&theme=default)
 
