@@ -8,14 +8,19 @@
   </a>  
 </div>
 
-Мой стек технологий и принципов разработки:
-- "чистая" архитектрура, паттерн MVVM для слоя presentation;
+Я постоянно учуь новому и повышаю свой уровень, мой актуальный стек и применяемые подходы можно посмотреть в репозитории MTGCollection.
+
+Мой стек:
+- "чистая" архитектрура, паттерн MVVM для слоя presentation, многомодульная архитектура (features/core/navigation);
 - Kotlin, Java (в объеме достаточном для работы с legacy-кодом);
 - Hilt, Dagger2;
+- LiveData, Flow, Coroutines;
 - Navigation component;
 - Retrofit2 + Okhttp3;
+- Jetpack Paging3 + RemoteMediator;
 - Glide, Coil;
-- 
+- Room, SharedPreferences
+- сервисы Firebasee.
 
 ### Languages and tools 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" title="android" width="40" height="40"/>&nbsp; 
