@@ -1,14 +1,15 @@
 <div id="header" align="center">
-  <h2>Hi there, I'm Andrei</h2>
-  <h3>Android-developer</h3>
-</div>
-<div id="socials" align="center">
-  <a href="https://t.me/andrei_kslpv">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>  
+  <h3>Привет, меня зовут Андрей, Android-разработчик 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" title="android" width="24" height="24"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" title="kotlin" width="24" height="24"/>&nbsp;
+  </h3>
 </div>
 
-Я постоянно учуь новому и повышаю свой уровень, мой актуальный стек и применяемые подходы можно посмотреть в репозитории MTGCollection.
+<div id="watchthis" align="left">
+  <P>
+    Я постоянно учуь новому и повышаю свой уровень, мой актуальный стек и применяемые подходы можно посмотреть в репозитории <a href="https://github.com/andreikslpv/MTGCollection"> MTGCollection </a>
+  </P>  
+</div>                                                                                                                           
 
 Мой стек:
 - "чистая" архитектрура, паттерн MVVM для слоя presentation, многомодульная архитектура (features/core/navigation);
@@ -21,13 +22,6 @@
 - Glide, Coil;
 - Room, SharedPreferences
 - сервисы Firebasee.
-
-### Languages and tools 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" title="android" width="40" height="40"/>&nbsp; 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" title="kotlin" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="android studio" width="40" height="40"/>&nbsp; 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" title="firebase" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" width="40" height="40"/>&nbsp;
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andreikslpv&theme=default)
 
