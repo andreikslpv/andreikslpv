@@ -11,7 +11,7 @@
   </P>  
 </div>                                                                                                                           
 
-Мой стек:
+Hard skills:
 - "чистая" архитектрура, паттерн MVVM для слоя presentation, многомодульная архитектура (features/core/navigation)
 - Kotlin
 - Hilt, Dagger2
@@ -22,6 +22,8 @@
 - Glide, Coil
 - Room, SharedPreferences
 - сервисы Firebase
+- работа по Agile (Scrum)
+- верстка UI по макету в Figma
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andreikslpv&theme=default)
 
