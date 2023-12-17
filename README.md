@@ -22,6 +22,7 @@ Hard skills:
 - Glide, Coil
 - Room, SharedPreferences
 - сервисы Firebase
+- Git, GitFlow
 - работа по Agile (Scrum)
 - верстка UI по макету в Figma
 
