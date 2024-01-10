@@ -25,6 +25,7 @@ Hard skills:
 - Git, GitFlow
 - работа по Agile (Scrum)
 - верстка UI по макету в Figma
+- junit, MockK
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andreikslpv&theme=default)
 
